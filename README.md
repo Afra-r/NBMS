@@ -1,4 +1,4 @@
-##### **Corrections:**
+<h1>Corrections:</h1>
 
 
 
@@ -20,11 +20,11 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Key Releases Suggestions:**
+
+<h1>Key Releases Suggestions:</h1>
 
 
 
@@ -36,11 +36,10 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Influences Suggestions:**
+<h1>Influences Suggestions:</h1>
 
 
 
@@ -58,11 +57,10 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Precursors Suggestions:**
+<h1>Precursors Suggestions:</h1>
 
 
 
@@ -70,11 +68,10 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Allstars Suggestions:**
+<h1>Allstars Suggestions:</h1>
 
 
 
@@ -83,11 +80,10 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Other Band Suggestions:**
+<h1>Other Band Suggestions:</h1>
 
 
 
@@ -108,11 +104,10 @@
 
 
 
-\---------------------------------------------------
 
 
 
-##### **Musician Suggestions:**
+<h1>Musician Suggestions:</h1>
 
 
 
